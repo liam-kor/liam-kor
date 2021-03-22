@@ -1,7 +1,7 @@
 ### Hi there 👋
 [![liam-kor's GitHub stats](https://github-readme-stats.vercel.app/api?username=liam-kor)](https://github.com/anuraghazra/github-readme-stats)
 
-<img src="https://img.shields.io/badge/typescript_3178C6?style=flat-square&logo=typescript&logoColor=white"/></a>&nbsp
+<img src="https://img.shields.io/badge/typescript-3178C6?style=flat-square&logo=Typescript&logoColor=white"/></a>&nbsp
 <!--
 **liam-kor/liam-kor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
